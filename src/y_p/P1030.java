@@ -1,5 +1,7 @@
 package y_p;
 
+
+
 import java.util.Scanner;
 
 public class P1030 {
